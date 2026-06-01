@@ -1,8 +1,8 @@
 streamlit
-tensorflow
+tensorflow-cpu
 numpy
 pillow
 scikit-image
 lime
-opencv-python
+opencv-python-headless
 matplotlib
