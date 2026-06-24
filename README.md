@@ -67,5 +67,3 @@ Make sure you have Python installed (preferably version 3.8 to 3.11).
 
 This system is designed for **research and educational purposes only**. It is not a substitute for professional clinical diagnosis. Decisions regarding health should always involve a qualified medical practitioner.
 
----
-*© 2026 AI MedLabs - Secure Neural Environment*
